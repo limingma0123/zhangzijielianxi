@@ -1,0 +1,34 @@
+src/gz openwrt_core https://openwrt.proxy.ustclug.org/snapshots/targets/armvirt/64/packages
+src/gz openwrt_base https://openwrt.proxy.ustclug.org/snapshots/packages/aarch64_generic/base
+src/gz openwrt_luci https://openwrt.proxy.ustclug.org/snapshots/packages/aarch64_generic/luci
+src/gz openwrt_packages https://openwrt.proxy.ustclug.org/snapshots/packages/aarch64_generic/packages
+src/gz openwrt_routing https://openwrt.proxy.ustclug.org/snapshots/packages/aarch64_generic/routing
+
+
+src/gz openwrt_core https://downloads.openwrt.org/releases/18.06.5/targets/armvirt/64/packages/
+src/gz openwrt_base https://downloads.openwrt.org/releases/18.06.5/packages/aarch64_generic/base/
+src/gz openwrt_luci https://downloads.openwrt.org/releases/18.06.5/packages/aarch64_generic/luci/
+src/gz openwrt_packages https://downloads.openwrt.org/releases/18.06.5/packages/aarch64_generic/packages/
+src/gz openwrt_routing https://downloads.openwrt.org/releases/18.06.5/packages/aarch64_generic/routing/
+
+src/gz openwrt_core https://downloads.openwrt.org/releases/19.07.0/targets/armvirt/64/packages/
+src/gz openwrt_base https://downloads.openwrt.org/releases/19.07.0/packages/aarch64_generic/base/
+src/gz openwrt_luci https://downloads.openwrt.org/releases/19.07.0/packages/aarch64_generic/luci/
+src/gz openwrt_packages https://downloads.openwrt.org/releases/19.07.0/packages/aarch64_generic/packages/
+src/gz openwrt_routing https://downloads.openwrt.org/releases/19.07.0/packages/aarch64_generic/routing/
+
+
+src/gz openwrt_core http://downloads.openwrt.org/snapshots/targets/armvirt/64/packages
+src/gz openwrt_base http://downloads.openwrt.org/snapshots/packages/aarch64_generic/base
+src/gz openwrt_luci http://downloads.openwrt.org/snapshots/packages/aarch64_generic/luci
+src/gz openwrt_packages http://downloads.openwrt.org/snapshots/packages/aarch64_generic/packages
+src/gz openwrt_routing http://downloads.openwrt.org/snapshots/packages/aarch64_generic/routing
+
+src/gz openwrt_core https://openwrt.proxy.ustclug.org/snapshots/targets/armvirt/64/packages
+src/gz openwrt_base https://openwrt.proxy.ustclug.org/snapshots/packages/aarch64_generic/base
+src/gz openwrt_luci https://openwrt.proxy.ustclug.org/snapshots/packages/aarch64_generic/luci
+src/gz openwrt_packages https://openwrt.proxy.ustclug.org/snapshots/packages/aarch64_generic/packages
+src/gz openwrt_routing https://openwrt.proxy.ustclug.org/snapshots/packages/aarch64_generic/routing
+
+
+
