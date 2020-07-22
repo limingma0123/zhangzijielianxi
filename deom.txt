@@ -2,3 +2,5 @@
 2. second edit
 3. third edit
 4. forth edit
+5. gokemicro
+6. practice how to use git
