@@ -1,2 +1,3 @@
-first
-second
+first exit
+second exit
+third exit
