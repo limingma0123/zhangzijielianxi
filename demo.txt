@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 first
 second
 maliming add this: good weather
+=======
+first exit
+second exit
+third exit
+>>>>>>> zhangzijie
