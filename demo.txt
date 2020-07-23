@@ -2,8 +2,10 @@
 first
 second
 maliming add this: good weather
+<<<<<<< HEAD
 =======
 first exit
 second exit
 third exit
 >>>>>>> zhangzijie
+tomorron is good 
