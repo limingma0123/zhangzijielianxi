@@ -32,3 +32,4 @@ src/gz openwrt_routing https://openwrt.proxy.ustclug.org/snapshots/packages/aarc
 
 
 test again
+7/23, add some information
