@@ -1,0 +1,6 @@
+[submodule "luci-app-serverchan"]
+	path = luci-app-serverchan
+	url = https://github.com/tty228/luci-app-serverchan
+[submodule "luci-theme-rosy"]
+	path = luci-theme-rosy
+	url = https://github.com/rosywrt/luci-theme-rosy
